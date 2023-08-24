@@ -1,3 +1,3 @@
 ### My Resume
 
-https://github.com/MohamedMassoud10/my-resume
+https://mohamedmassoud10.github.io/my-resume/
